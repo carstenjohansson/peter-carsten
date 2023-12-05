@@ -62,4 +62,4 @@ cd lokalakatalogen
 ##Har du orginal repo så kan du använda pull
 
 
-**git pull origin main/master
+**git pull origin main/master**
