@@ -63,3 +63,5 @@ cd lokalakatalogen
 
 
 **git pull origin main/master**
+
+##Bra guide Carsten
